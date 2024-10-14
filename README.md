@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Taneeshka and I am a 3rd student studying in JSS STU Mysuru .<br>I am currently learning MERN stack and Machine Learning.<br>I am very interested in JAVA development as well as animation.<br>Feel free to connect with me for projects:)
+Hi I am Taneeshka and I am a final year CSE student, studying in JSS STU Mysuru .<br>I am currently learning Deep Learning.<br>I am very interested in JAVA development as well as animation.<br>Feel free to connect with me for projects:)
 
 
 ## 🌐 Socials:
